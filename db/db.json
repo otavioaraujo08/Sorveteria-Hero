@@ -1,0 +1,81 @@
+{
+    "ingredientes": {
+      "forma_servir": [
+        {
+          "id": 1,
+          "tipo": "Casquinha - 100g"
+        },
+        {
+          "id": 2,
+          "tipo": "Copinho - 200ml"
+        },
+        {
+          "id": 3,
+          "tipo": "Taça - 500ml"
+        },
+        {
+          "id": 4,
+          "tipo": "Pote - 1000ml"
+        }
+      ],
+      "sabores": [
+        {
+          "id": 1,
+          "tipo": "Baunilha"
+        },
+        {
+          "id": 2,
+          "tipo": "Chocolate"
+        },
+        {
+          "id": 3,
+          "tipo": "Morango"
+        },
+        {
+          "id": 4,
+          "tipo": "Napolitano"
+        }
+      ],
+      "opcionais": [
+        {
+          "id": 1,
+          "tipo": "Confete"
+        },
+        {
+          "id": 2,
+          "tipo": "Cereja"
+        },
+        {
+          "id": 3,
+          "tipo": "Canudinho"
+        },
+        {
+          "id": 4,
+          "tipo": "Calda"
+        },
+        {
+          "id": 4,
+          "tipo": "Chantily"
+        },
+        {
+          "id": 4,
+          "tipo": "Uvas"
+        }
+      ]
+    },
+    "status": [
+      {
+        "id": 1,
+        "tipo": "Solicitado"
+      },
+      {
+        "id": 2,
+        "tipo": "Em produção"
+      },
+      {
+        "id": 3,
+        "tipo": "Finalizado"
+      }
+    ],
+    "sorvetes": []
+  }
