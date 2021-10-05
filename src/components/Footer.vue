@@ -1,6 +1,6 @@
 <template>
     <footer id="footer">
-        <p>Monte seu sorvete &copy; 2021</p>
+        <p>Sorveteria Hero &copy; 2021</p>
     </footer>
 </template>
 
@@ -13,9 +13,9 @@
 <style>
     #footer {
         height: 200px;
-        background-color: #222;
-        border-top: 4px solid #111;
-        color: #FCBA03;
+        background-color: #9FD9FF;
+        border-top: 4px solid #DB4D89;
+        color: #DB4D89;
         display: flex;
         align-items: center;
         justify-content: center;

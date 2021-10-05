@@ -18,8 +18,8 @@
 
 <style>
     #nav {
-        background-color: #222;
-        border-bottom: 4px solid #111;
+        background-color: #9FD9FF;
+        border-bottom: 4px solid #DB4D89;
         padding: 15px 50px;
         display: flex;
         justify-content: flex-end;
@@ -37,7 +37,7 @@
     }
 
     #nav a{
-        color: #FCBA03;
+        color: #DB4D89;
         text-decoration: none;
         margin: 12px;
         transition: .5s;
